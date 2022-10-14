@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\UNIVERSIDAD_TINIZARA\\CodeLabs\\DessertClicker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "com.example.android.dessertclicker.app-mergeDebugResources-17:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tiniz\\.gradle\\caches\\transforms-2\\files-2.1\\2f92b9b7fa7d26b98742c9b2a7b8abdc\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\tiniz\\.gradle\\caches\\transforms-3\\ad2883ebbd2342fa473148b308d96c09\\transformed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
