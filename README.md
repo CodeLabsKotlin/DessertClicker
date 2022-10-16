@@ -1,5 +1,10 @@
-# DessertClicker
+# 4.1 y 4.2 DessertClicker :cake:
 
+## Descripcion
+En este repositorio nos encontramos con un pequeño juego que consiste en pulsar repetidamente la pantalla, donde nos encontramos la imagen de un postre, para obtener "beneficios". Con él, se trabaja el ciclo de vida de los fragmentos. 
+
+## Comenzando :rocket:
+Con las siguientes instrucciones, podrás obtener una copia del proyecto para poder ejecutarlo en tu máquina local.
 
 ### Prerequisitos :clipboard:
 Tener instalado Android Studio, y en el caso de que no lo tuviesemos, debemos descargarlo desde la página oficial. Si nuestro sistema operativo es Windows, el enlace directo sera el siguiente: https://developer.android.com/studio. En cambio si tenemos MacOS o Linux, el enlace a usar es: https://developer.android.com/studio#downloadsl. En esta pagina encontraremos diferentes apartados para los distintos sistemas operativos, solo debemos hacer *scroll* hasta llegar al nuestro.
